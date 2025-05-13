@@ -283,7 +283,8 @@ footer .footer-top .footer-social div {
 
 main {
   flex: 1 0 auto;
-  background-color: #F9F9F9;
+  /* background-color: #F9F9F9; */
+  background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
 }
 
 @media (min-width: 992px) {

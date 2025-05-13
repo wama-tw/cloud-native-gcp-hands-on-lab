@@ -30,8 +30,8 @@ body {
 /* Header */
 
 header {
-  background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
-  color: white;
+  background-color: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+  /* color: white; */
 }
 
 /*
@@ -190,7 +190,7 @@ header .h-control :-moz-placeholder {
 
 header .navbar.sub-navbar {
   height: 60px;
-  background-color: white;
+  background-color: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
   font-size: 15px;
   color: #b4b2bb;
   padding-top: 0;

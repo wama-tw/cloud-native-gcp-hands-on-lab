@@ -30,7 +30,7 @@ body {
 /* Header */
 
 header {
-  background-color: #853B5C;
+  background: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
   color: white;
 }
 
